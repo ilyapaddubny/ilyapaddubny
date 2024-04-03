@@ -49,9 +49,9 @@
 
 
 ## 
-<div style="text-align: center;">
+<p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyapaddubny&theme=swift" alt="GitHub Profile Summary Card">
-</div>
+</p>
 <!--
 **ilyapaddubny/ilyapaddubny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
