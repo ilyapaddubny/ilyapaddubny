@@ -16,6 +16,13 @@
 * **Challenges Overcome:** Designing an intuitive UI for simplified habit tracking, and developing a custom widget for a streamlined user experience.
 
 ### [News ToDay](https://github.com/ilyapaddubny/News-ToDay)
+[![CoreData](https://img.shields.io/badge/Core_Data-orange?style=for-the-badge&logo=CoreData)](https://developer.apple.com/documentation/coredata)
+[![UserDefaults](https://img.shields.io/badge/User_Defaults-cyan?style=for-the-badge)](https://developer.apple.com/documentation/foundation/userdefaults)
+[![URLSession](https://img.shields.io/badge/URL_Session-blue?style=for-the-badge)](https://developer.apple.com/documentation/foundation/urlsession)
+[![MVC](https://img.shields.io/badge/MVC-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+[![UICollectionViewDiffableDataSource](https://img.shields.io/badge/UICollectionView_Diffable_Data_Source-lightblue?style=for-the-badge)](https://developer.apple.com/documentation/uikit/uicollectionviewdiffabledatasource)
+[![ImageCaching](https://img.shields.io/badge/Image_Caching-pink?style=for-the-badge)](https://developer.apple.com/documentation/uikit/uiimageview/loading_and_displaying_a_remote_image) 
+
 
 * **Collaborative News App:** Developed as part of the DevRush challenge, this app delivers up-to-date news in a sleek UIKit interface. Built collaboratively in a team of 4.
 
