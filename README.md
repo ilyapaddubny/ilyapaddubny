@@ -15,6 +15,29 @@
 
 * **Challenges Overcome:** Designing an intuitive UI for simplified habit tracking, and developing a custom widget for a streamlined user experience.
 
+### [News ToDay](https://github.com/ilyapaddubny/News-ToDay)
+
+* **Collaborative News App:** Developed as part of the DevRush challenge, this app delivers up-to-date news in a sleek UIKit interface. Built collaboratively in a team of 4.
+
+* **Leadership Experience:** I served as team leader on this project, managing 3 developers and utilizing GitHub project boards to track progress and coordinate efforts. Notably, I delegated features among the team members and successfully resolved any merge conflicts that arose, ensuring a smooth and efficient development process. This resulted in the successful presentation of the final project.
+
+* **Technical Highlights:** 
+   * **CoreData** for data persistence and offline access
+   * **UserDefaults** for managing user settings
+   * **URLSession** for fetching news content
+   * **MVC architecture** for a structured codebase
+   * **UICollectionViewDiffableDataSource** 
+   * **Custom image caching** for optimized performance
+
+* **Challenges Overcome:** Successfully met a tight two-week deadline while adhering to design guidelines. 
+
+<details>
+<summary>Additional Projects</summary>
+
+* **Project 3** (Short description within toggle)
+* **Project 4** (Short description within toggle)
+</details>
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyapaddubny&theme=swift)
 <!--
