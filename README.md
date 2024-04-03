@@ -16,7 +16,7 @@
 * **Challenges Overcome:** Designing an intuitive UI for simplified habit tracking, and developing a custom widget for a streamlined user experience.
 
 ### [News ToDay](https://github.com/ilyapaddubny/News-ToDay)
-[![UIKit](https://img.shields.io/badge/UI_Kit-E8E8E8?style=for-the-badge&logo=UIKit&logoColor=black)](https://developer.apple.com/documentation/uikit)
+[![UIKit](https://img.shields.io/badge/UI_Kit-E8E8E8?style=for-the-badge&logo=UIKit&logoColor=white&color=%23F05138)](https://developer.apple.com/documentation/uikit)
 [![CoreData](https://img.shields.io/badge/Core_Data-E8E8E8?style=for-the-badge&logo=CoreData)](https://developer.apple.com/documentation/coredata)
 [![UserDefaults](https://img.shields.io/badge/User_Defaults-E8E8E8?style=for-the-badge&color=%23F05138)](https://developer.apple.com/documentation/foundation/userdefaults)
 [![URLSession](https://img.shields.io/badge/URL_Session-E8E8E8?style=for-the-badge)](https://developer.apple.com/documentation/foundation/urlsession)
