@@ -1,8 +1,21 @@
-### Fueled by coffee and passion for elegant Swift code
+### Fueled by double espressos and a passion for crafting elegant Swift code.
+
+## Projects
+
+### [LumiCount](https://github.com/ilyapaddubny/LumiCount)
+
+* **Effortless Habit Tracking:** A user-friendly SwiftUI app designed to help you effortlessly count and track any habit or activity. LumiCount keeps you focused on your goals,  whether it's logging "days without smoking," tracking your progress towards "visiting 5 new countries," or simply reminding yourself to "drink 8 glasses of water" each day. 
+
+* **Real-World Impact:** Available on the [App Store](https://apps.apple.com/ee/app/lumicount/id6450320791), LumiCount is a valuable tool for anyone looking to build positive habits and achieve their goals.
+
+* **Technical Highlights:** 
+    * MVVM architecture for maintainable code
+    * WidgetKit for seamless action logging directly from the home screen.
+
+* **Challenges Overcome:** Designing an intuitive UI for simplified habit tracking, and developing a custom widget for a streamlined user experience.
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyapaddubny&theme=swift)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyapaddubny&theme=swift)-->
 <!--
 **ilyapaddubny/ilyapaddubny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
