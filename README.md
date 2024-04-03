@@ -1,4 +1,4 @@
-# Fueled by double espressos and a passion for crafting elegant Swift code.
+#  ☕️ Fueled by coffee and passion for elegant Swift code
 
 ## Projects
 
