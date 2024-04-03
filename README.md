@@ -1,5 +1,8 @@
-### Hi there 👋
+### Fueled by coffee and passion for elegant Swift code
 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyapaddubny&theme=swift)
 <!--
 **ilyapaddubny/ilyapaddubny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
