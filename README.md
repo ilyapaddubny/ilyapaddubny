@@ -3,14 +3,10 @@
 ## Projects
 
 ### [LumiCount](https://github.com/ilyapaddubny/LumiCount)
-[![SwiftUI](https://img.shields.io/badge/Swift_UI-007AFF?style=for-the-badge&logo=SwiftUI&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![MVVM](https://img.shields.io/badge/MVVM-FF9500?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-[![WidgetKit](https://img.shields.io/badge/Widget_Kit-007AFF?style=for-the-badge)](https://developer.apple.com/documentation/widgetkit)
-[![App Store](https://img.shields.io/badge/App%20Store-FF9500?style=for-the-badge&logo=App-Store&logoColor=white)](https://developer.apple.com/app-store/)
-
-
-
-
+[![SwiftUI](https://img.shields.io/badge/Swift_UI-E8E8E8?style=for-the-badge&logo=SwiftUI&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![MVVM](https://img.shields.io/badge/MVVM-E8E8E8?style=for-the-badge&color=%23F05138)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+[![WidgetKit](https://img.shields.io/badge/Widget_Kit-E8E8E8?style=for-the-badge)](https://developer.apple.com/documentation/widgetkit)
+[![App Store](https://img.shields.io/badge/App%20Store-E8E8E8?style=for-the-badge&logo=App-Store&logoColor=white&color=%23F05138)](https://developer.apple.com/app-store/)
 
 
 * **Effortless Habit Tracking:** A user-friendly SwiftUI app designed to help you effortlessly count and track any habit or activity. Stay motivated with convenient progress visualizations.
@@ -20,13 +16,15 @@
 * **Challenges Overcome:** Designing an intuitive UI for simplified habit tracking, and developing a custom widget for a streamlined user experience.
 
 ### [News ToDay](https://github.com/ilyapaddubny/News-ToDay)
-[![UIKit](https://img.shields.io/badge/UI_Kit-FF9500?style=for-the-badge&logo=UIKit&logoColor=white)](https://developer.apple.com/documentation/uikit)
-[![CoreData](https://img.shields.io/badge/Core_Data-007AFF?style=for-the-badge&logo=CoreData)](https://developer.apple.com/documentation/coredata)
-[![UserDefaults](https://img.shields.io/badge/User_Defaults-FF9500?style=for-the-badge)](https://developer.apple.com/documentation/foundation/userdefaults)
-[![URLSession](https://img.shields.io/badge/URL_Session-007AFF?style=for-the-badge)](https://developer.apple.com/documentation/foundation/urlsession)
-[![MVC](https://img.shields.io/badge/MVC-FF9500?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-[![UICollectionViewDiffableDataSource](https://img.shields.io/badge/UICollectionView_Diffable_Data_Source-007AFF?style=for-the-badge)](https://developer.apple.com/documentation/uikit/uicollectionviewdiffabledatasource)
-[![ImageCaching](https://img.shields.io/badge/Image_Caching-FF9500?style=for-the-badge)](https://developer.apple.com/documentation/uikit/uiimageview/loading_and_displaying_a_remote_image)
+[![UIKit](https://img.shields.io/badge/UI_Kit-E8E8E8?style=for-the-badge&logo=UIKit&logoColor=black)](https://developer.apple.com/documentation/uikit)
+[![CoreData](https://img.shields.io/badge/Core_Data-E8E8E8?style=for-the-badge&logo=CoreData)](https://developer.apple.com/documentation/coredata)
+[![UserDefaults](https://img.shields.io/badge/User_Defaults-E8E8E8?style=for-the-badge&color=%23F05138)](https://developer.apple.com/documentation/foundation/userdefaults)
+[![URLSession](https://img.shields.io/badge/URL_Session-E8E8E8?style=for-the-badge)](https://developer.apple.com/documentation/foundation/urlsession)
+[![MVC](https://img.shields.io/badge/MVC-E8E8E8?style=for-the-badge&color=%23F05138)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+[![UICollectionViewDiffableDataSource](https://img.shields.io/badge/UICollectionView_Diffable_Data_Source-E8E8E8?style=for-the-badge)](https://developer.apple.com/documentation/uikit/uicollectionviewdiffabledatasource)
+[![ImageCaching](https://img.shields.io/badge/Image_Caching-E8E8E8?style=for-the-badge&color=%23F05138)](https://developer.apple.com/documentation/uikit/uiimageview/loading_and_displaying_a_remote_image)
+
+
 
 
 
