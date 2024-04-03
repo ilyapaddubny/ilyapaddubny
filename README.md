@@ -2,7 +2,7 @@
 
 ## Projects
 
-### LumiCount [link](https://github.com/ilyapaddubny/LumiCount)
+### LumiCount [Link](https://github.com/ilyapaddubny/LumiCount)
 [![SwiftUI](https://img.shields.io/badge/Swift_UI-E8E8E8?style=for-the-badge&logo=SwiftUI&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![MVVM](https://img.shields.io/badge/MVVM-E8E8E8?style=for-the-badge&color=%23F05138)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 [![WidgetKit](https://img.shields.io/badge/Widget_Kit-E8E8E8?style=for-the-badge)](https://developer.apple.com/documentation/widgetkit)
